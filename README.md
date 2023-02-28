@@ -7,9 +7,13 @@ this is version 3.0 python version Light Attack add before skill
 extra moduel using is pynput
 
 installion:
+
 download all 4 file
+
 pull them in same folder
+
 open powershell
+
 pip install pynput
 
 usage:
