@@ -1,7 +1,7 @@
 # Light_Attack_helper_ESO_V3
 
 
-this is version 1.0 python version Light Attack add before skill
+this is version 3.0 python version Light Attack add before skill
 
 
 extra moduel using is pynput
