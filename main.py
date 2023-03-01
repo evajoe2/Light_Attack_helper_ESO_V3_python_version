@@ -24,7 +24,7 @@ time.sleep(0.5)
 
 #****************************************************************
 
-d_time = 0.08  # set ratio for delay time for light attack and skill
+d_time = 0.1  # set ratio for delay time for light attack and skill
 keyboard = key_cl()
 mouse = Controller()
 
