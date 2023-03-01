@@ -65,7 +65,7 @@ def on_press(key):
         m_ck()
         keyboard.press(e_k2)
         keyboard.release(e_k2)
-        print('added light Attack and delay '+ str(ts) + 'sec to skill 1')
+        print('added light Attack and delay '+ str(ts) + 'sec to skill 2')
         ignore_press = True    
        
     if (key.char if hasattr(key, 'char') else key.name) == d_k3:
@@ -103,7 +103,6 @@ def on_press(key):
             ignore_press = False
             return
         m_ck()
-        print('light Attack added before ultimate skill')
         keyboard.press(e_k6)
         keyboard.release(e_k6)
         print('added light Attack and delay '+ str(ts) + 'sec to ultimate skill')
